@@ -14,11 +14,13 @@ min-height:1000px;
     grid-template-columns:300px 700px;
 }
 .left-section{
-
+display:grid;
+    grid-column:1;
 background-color:red;
 }
 .right-section{
-
+display:grid;
+    grid-column:2;
 background-color:brown;
 width:90%;
 }
