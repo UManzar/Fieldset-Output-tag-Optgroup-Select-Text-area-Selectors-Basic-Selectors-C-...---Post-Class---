@@ -15,7 +15,7 @@ min-height:1000px;
 }
 .left-section{
 
-   
+ grid-column:span 1;  
 background-color:red;
 }
 .right-section{
