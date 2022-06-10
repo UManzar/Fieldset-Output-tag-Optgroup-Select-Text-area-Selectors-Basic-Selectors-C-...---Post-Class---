@@ -90,7 +90,7 @@ letter-spacing:1px;
 }
 
 @media screen and (max-width:674px){
-body {
+.main-content {
 dispaly:grid;
 grid-template-columns:repeat(1, 1fr);
 }
