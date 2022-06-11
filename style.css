@@ -20,7 +20,8 @@ background-color:red;
 }
 .right-section{
 
-   
+ grid-column-start:2;
+    grid-column-end:2;
 background-color:brown;
 
 }
