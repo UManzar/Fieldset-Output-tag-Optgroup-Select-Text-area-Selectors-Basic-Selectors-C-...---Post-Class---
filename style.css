@@ -20,8 +20,8 @@ background-color:red;
 }
 .right-section{
 
- grid-column-start:2;
-    grid-column-end:2;
+ grid-column-start:300px;
+    grid-column-end:1000px;
 background-color:brown;
 
 }
