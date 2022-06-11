@@ -11,7 +11,7 @@
 display:grid;
 min-height:1000px;
     width:90%;
-    grid-template-columns:300px 1000px;
+    grid-template-columns:300px 700px;
 }
 .left-section{
 
@@ -21,7 +21,7 @@ background-color:red;
 .right-section{
 
  grid-column-start:300px;
-    grid-column-end:700px;
+    grid-column-end:1000px;
 background-color:brown;
 width:90%;
 }
