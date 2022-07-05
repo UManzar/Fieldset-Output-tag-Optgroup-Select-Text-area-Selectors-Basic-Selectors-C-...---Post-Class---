@@ -9,7 +9,8 @@
 /* Write CSS code below */
 .main-content{
 display:grid;
-
+min-height:1000px;
+    width:90%;
     grid-template-columns:300px 700px;
 }
 .left-section{
@@ -89,11 +90,10 @@ padding:0.5rem;
 letter-spacing:1px;
 }
 
-@media screen and (max-width:674px){
+@media screen and (max-width:673px){
 .main-content {
 display:grid;
 grid-template-columns:repeat(1, 1fr);
-    min-height:1000px;
-    width:90%;
+    
 }
 }
